@@ -23,4 +23,4 @@ Excel · Power BI
 Superstore Sales Dataset — Kaggle (public)
 
 ## Dashboard Preview
-[screenshot here]
+![Dashboard](dashboard.png)
